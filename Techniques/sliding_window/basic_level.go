@@ -8,7 +8,7 @@ func max(a, b int) int {
 	}
 }
 
-func maxSum(arr []int, k int) {
+func maxSum(arr []int, k int) int {
 	su, ma := 0, -1
 
 	for i, x := range arr {
@@ -22,4 +22,5 @@ func maxSum(arr []int, k int) {
 			ma = max(ma, su)
 		}
 	}
+	return ma
 }

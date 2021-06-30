@@ -9,3 +9,4 @@ def maxSum(arr: list[int], k: int):
             su -= arr[i - k]
         if i >= k - 1:
             ma = max(ma, su)
+    return ma
