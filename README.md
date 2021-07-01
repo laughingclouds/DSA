@@ -16,16 +16,16 @@ Contains all the questions that I couldn't categorize.
 
 Questions on sorting and searching
 
-### [Binary Search](Sorting%20Searching/Binary%20Search/)
+### Binary Search
 
 ## [Techniques](Techniques/README.md)
 
 Some *techniques* (again, something I couldn't categorize but something that was relevant enough to have a separate folder).
 
-### [Sliding Window](Techniques/Sliding%20Window/README.md)
+### Sliding Window
 
 Questions on sliding window.
 
-### [Two Pointers](Techniques/Two%20Pointers/README.md)
+### Two Pointers
 
 Questions on two pointers.
