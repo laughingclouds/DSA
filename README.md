@@ -16,7 +16,7 @@ Contains all the questions that I couldn't categorize.
 
 Questions on sorting and searching
 
-### [Binary Search](Sorting%20Searching/Binary%20Search/README.md)
+### [Binary Search](Sorting%20Searching/Binary%20Search/)
 
 ## [Techniques](Techniques/README.md)
 
