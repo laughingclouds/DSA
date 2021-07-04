@@ -7,7 +7,7 @@ class Solution {
             int left = 0, n = arr.size();
             int right = 0;
 
-            for (int i = i; i < n; i++) right += arr[i];
+            for (int i = 1; i < n; i++) right += arr[i];
 
             int i = 0;
 
