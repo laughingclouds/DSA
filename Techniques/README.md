@@ -31,3 +31,7 @@
 2. **twoSum2.\***
 
    - <https://leetcode.com/problems/two-sum-ii-input-array-is-sorted>
+
+3. **reverseString.\***
+
+   - <https://leetcode.com/problems/reverse-string/>
