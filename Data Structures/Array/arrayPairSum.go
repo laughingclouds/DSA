@@ -2,7 +2,7 @@ package main
 
 import "sort"
 
-func alternateSolution(arr []int) int {
+func arrayPairSum(arr []int) int {
 	s, n := 0, len(arr)
 	sort.Ints(arr)
 

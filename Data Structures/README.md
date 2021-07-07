@@ -17,4 +17,7 @@
 4. **pascalsTriangle.\***
 
     - <https://leetcode.com/problems/pascals-triangle/>
-  
+
+5. **arraPairSum.\***
+
+   - <https://leetcode.com/problems/array-partition-i>

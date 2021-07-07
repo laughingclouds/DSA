@@ -1,5 +1,5 @@
 class Solution:
-    def alternateSolution(self, arr: list[int]) -> int:
+    def arrayPairSum(self, arr: list[int]) -> int:
         s, n = 0, len(arr)
         arr.sort()
 

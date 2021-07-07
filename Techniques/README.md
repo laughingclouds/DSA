@@ -35,7 +35,3 @@
 3. **reverseString.\***
 
    - <https://leetcode.com/problems/reverse-string/>
-
-4. **arraPairSum.\***
-
-   - <https://leetcode.com/problems/array-partition-i>
