@@ -18,6 +18,6 @@
 
     - <https://leetcode.com/problems/pascals-triangle/>
 
-5. **arraPairSum.\***
+5. **arrayPairSum.\***
 
    - <https://leetcode.com/problems/array-partition-i>
