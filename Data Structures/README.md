@@ -2,22 +2,18 @@
 
 ## Array
 
-1. **findPivotIndex.\***
-
-    - <https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144>
-
-2. **dominantIndex.\***
+1. **dominantIndex.\***
 
     - <https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1147/>
 
-3. **plusOne.\***
+2. **plusOne.\***
 
    - <https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/>
 
-4. **pascalsTriangle.\***
+3. **pascalsTriangle.\***
 
     - <https://leetcode.com/problems/pascals-triangle/>
 
-5. **arrayPairSum.\***
+4. **arrayPairSum.\***
 
    - <https://leetcode.com/problems/array-partition-i>

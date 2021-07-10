@@ -1,13 +1,13 @@
 package main
 
 func pivotIndex(arr []int) int {
-	s := 0
+	r := 0
 
 	for _, v := range arr {
-		s += v
+		r += v
 	}
 
-	ans, l, r := -1, 0, s
+	ans, l := -1, 0
 
 	for i, v := range arr {
 		r -= v
