@@ -25,15 +25,27 @@ Some *techniques* (again, something I couldn't categorize but something that was
 
 ### Prefix Sum
 
+***Tutorials***
+
 - <https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/>
 
 - <https://usaco.guide/silver/prefix-sums?lang=cpp>
 
 - <https://duckduckgo.com/?t=lm&q=prefix+sum&ia=web>
 
+***Problems***
+
+- <https://leetcode.com/tag/prefix-sum/>
+
 ### Sliding Window
 
+***Tutorials***
+
 - <https://www.geeksforgeeks.org/window-sliding-technique/>
+
+***Problems***
+
+- <https://leetcode.com/tag/sliding-window/>
 
 ### Two Pointers
 
