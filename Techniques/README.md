@@ -7,16 +7,10 @@
 
 ## Prefix Sum
 
-<https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/>
-<https://usaco.guide/silver/prefix-sums?lang=cpp>
-<https://duckduckgo.com/?t=lm&q=prefix+sum&ia=web>
-
 1. **findPivotIndex.\***
    - <https://leetcode.com/problems/find-pivot-index/>
 
 ## Sliding Window
-
-<https://www.geeksforgeeks.org/window-sliding-technique/>
 
 1. **basic_level.\***
 

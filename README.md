@@ -5,6 +5,7 @@
   - [Sorting Searching](#sorting-searching)
     - [Binary Search](#binary-search)
   - [Techniques](#techniques)
+    - [Prefix Sum](#prefix-sum)
     - [Sliding Window](#sliding-window)
     - [Two Pointers](#two-pointers)
 
@@ -22,10 +23,16 @@ Questions on sorting and searching
 
 Some *techniques* (again, something I couldn't categorize but something that was relevant enough to have a separate folder).
 
+### Prefix Sum
+
+<https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/>
+<https://usaco.guide/silver/prefix-sums?lang=cpp>
+<https://duckduckgo.com/?t=lm&q=prefix+sum&ia=web>
+
 ### Sliding Window
 
-Questions on sliding window.
+<https://www.geeksforgeeks.org/window-sliding-technique/>
 
 ### Two Pointers
 
-Questions on two pointers.
+<https://www.geeksforgeeks.org/two-pointers-technique/>
